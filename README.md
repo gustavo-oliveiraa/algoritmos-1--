@@ -1,2 +1,0 @@
-# programas
-tarefas avaliativas
