@@ -1,4 +1,4 @@
-/*Construa um algoritmo que leia um número inteiro de horas e mostre ao usuário o
+/*Construa um algoritmo que leia um nÃºmero inteiro de horas e mostre ao usuÃ¡rio o
 correspondente em minutos e segundos destas horas.*/
 #include<stdio.h>
 int main(){
@@ -8,7 +8,7 @@ int main(){
 	MINUTOS = HORA * 60;
 	SEGUNDOS= MINUTOS * 60;
 	printf("Minutos: %d\n", MINUTOS);
-	printf("Sgunfos: %d\n", SEGUNDOS);
+	printf("Segundos: %d\n", SEGUNDOS);
 	return 0;
 }
 
