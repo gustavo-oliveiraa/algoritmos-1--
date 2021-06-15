@@ -1,4 +1,4 @@
-/*Construa um algoritmo que leia um número inteiro de horas e mostre ao usuário o
+/*1. Construa um algoritmo que leia um número inteiro de horas e mostre ao usuário o
 correspondente em minutos e segundos destas horas.*/
 #include<stdio.h>
 int main(){
