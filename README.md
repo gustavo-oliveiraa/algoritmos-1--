@@ -1,2 +1,2 @@
-# algoritmos-1--
+# algoritmos-1-
 tarefas avaliativas
