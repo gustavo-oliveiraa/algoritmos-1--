@@ -1,3 +1,5 @@
+/*2. Construa um algoritmo que calcule a área de um círculo cujo raio é fornecido pelo
+usuário (use área= 3.14 x raio2)*/
 #include<stdio.h>
 int main(){
 	double RAIO, AREA;
